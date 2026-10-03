@@ -96,9 +96,17 @@ Or build from VS Code with the Connect IQ extension.
 
 ### Supported Devices
 
-Forerunner 165, 255, 255 Music, 255s, 255s Music, 265, 265s, 955, 965
-Venu 3, 3s
-Vivoactive 5
+53 watches with stress + body battery sensors (Connect IQ 5.2.0+):
+
+- **D2:** Mach 1, Mach 2, Mach 2 Pro
+- **Enduro:** 3
+- **Epix:** (Gen 2), Epix 2 Pro (42/47/51mm)
+- **Fenix:** 7, 7 Pro, 7S, 7S Pro, 7X, 7X Pro (incl. no-wifi variants), 8 (43/47mm, Solar 47/51mm, Pro 47mm), E
+- **Forerunner:** 165, 165 Music, 170, 170 Music, 255, 255 Music, 255s, 255s Music, 265, 265s, 570 (42/47mm), 70, 955, 965, 970
+- **Instinct:** 3 AMOLED (45/50mm), 3 Solar (45mm), Crossover AMOLED, E (40/45mm)
+- **MARQ:** (Gen 2), (Gen 2) Aviator
+- **Venu:** 3, 3S, 4 (41/45mm), X1
+- **Vivoactive:** 5, 6
 
 ## License & Attribution
 
